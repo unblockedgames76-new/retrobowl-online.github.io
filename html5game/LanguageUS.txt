@@ -162,8 +162,8 @@ ui_Leaderboard_QB	QB Leaderboard
 ui_Name	Name
 ui_News	News
 ui_Traits	Traits
-conf_AFC	CONF A
-conf_NFC	CONF N
+conf_AFC	AFC
+conf_NFC	NFC
 division_East	East
 division_West	West
 division_North	North
@@ -588,15 +588,15 @@ ui_NewCareer	New Career
 news_NewCareer	With just $num $weeks left in the regular season $teamname have appointed $coachname as their new head coach.##$lname has worked at the college level for several years and was excelling as the head coach of $randomcollegename before taking the reins at $teamname.
 ui_StartWithFave	Start with favorite team?
 msg_Intro_1	Welcome to $teamname!##This is your home screen. You can tap on the division table to view divisions and the schedule.##When you are ready tap the F.OFFICE button.
-msg_Intro_1_gp	Welcome to $teamname!##This is your home screen. You can use ² or the - Button to view divisions and the schedule.##When you are ready highlight the F.OFFICE button and press ¹.
-msg_Intro_1_gp_xb	Welcome to $teamname!##This is your home screen. You can use ² to view divisions and the schedule.##When you are ready highlight the F.OFFICE button and press º.
+msg_Intro_1_gp	Welcome to $teamname!##This is your home screen. You can use Â² or the - Button to view divisions and the schedule.##When you are ready highlight the F.OFFICE button and press Â¹.
+msg_Intro_1_gp_xb	Welcome to $teamname!##This is your home screen. You can use Â² to view divisions and the schedule.##When you are ready highlight the F.OFFICE button and press Âº.
 msg_Intro_2	From the Front Office you can upgrade facilities and staff.##Tapping an 'i' icon will bring up useful information.
-msg_Intro_2_gp	From the Front Office you can upgrade facilities and staff.##Highlighting an 'i' icon and pressing ¹ will bring up useful information.
-msg_Intro_2_gp_xb	From the Front Office you can upgrade facilities and staff.##Highlighting an 'i' icon and pressing º will bring up useful information.
+msg_Intro_2_gp	From the Front Office you can upgrade facilities and staff.##Highlighting an 'i' icon and pressing Â¹ will bring up useful information.
+msg_Intro_2_gp_xb	From the Front Office you can upgrade facilities and staff.##Highlighting an 'i' icon and pressing Âº will bring up useful information.
 msg_Intro_3	I'm sure you want to meet your players so let's check the ROSTER screen.
 msg_Intro_4	These are your key players. You don't need to manage the entire roster, just take care of these guys and everyone else will fall into line.##Tap on a player to open his profile.
-msg_Intro_4_gp	These are your key players. You don't need to manage the entire roster, just take care of these guys and everyone else will fall into line.##Highlight a player and press ¹ to open his profile.
-msg_Intro_4_gp_xb	These are your key players. You don't need to manage the entire roster, just take care of these guys and everyone else will fall into line.##Highlight a player and press º to open his profile.
+msg_Intro_4_gp	These are your key players. You don't need to manage the entire roster, just take care of these guys and everyone else will fall into line.##Highlight a player and press Â¹ to open his profile.
+msg_Intro_4_gp_xb	These are your key players. You don't need to manage the entire roster, just take care of these guys and everyone else will fall into line.##Highlight a player and press Âº to open his profile.
 msg_Intro_5	Here you can view player details and attributes. Keep an eye on morale and condition.##Poor morale can lead to game penalties and problems off the field.##Low condition can lead to injury or worse - fumbles!
 msg_Intro_6	Before we head into a game let's go over the basics for controlling your players on the field.
 msg_Intro_8	Well done! You have taken charge of $teamname near the end of a difficult season - just enough time to get the hang of things before next season starts.##The $teamname fans are desperate for you to turn things around. Good luck!
@@ -625,7 +625,7 @@ injurytype_9	Calf
 injurytype_10	Ankle
 injurytype_11	Foot
 ui_SkipTutorial	Skip Tutorial
-ui_Credits	Design & Code by Simon Read      ***      Art by @pixelnfl      ***      Music by Heatley Bros      ***      Special thanks to John Holden, @MrSpecialK_, Will Thompson and Five Aces      ***      Also a huge thank you to all the league organizers and players!
+ui_Credits	Design & Code by Simon Read      ***      Art by  Savage @pixelnfl      ***      Music by Heatley Bros      ***      Special thanks to John Holden, @MrSpecialK_, Will Thompson and Five Aces      ***      Also a huge thank you to all the league organizers and players!
 match_TooLow	Too Low
 match_Doink	Doink
 ui_WeatherFX	Weather FX
@@ -780,7 +780,7 @@ ui_Close	Close
 btn_RestorePurchases	Restore#Purchases
 ui_Connecting	Connecting...
 ui_FavouriteTeam	Favorite Team
-msg_Welcome_CO	Welcome to Retro Bowl College!##You are about to start your first season as the head coach of a college football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
+msg_Welcome_CO	Welcome to College Bowl!##You are about to start your first season as the head coach of a college football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 
 msg_Welcome	Welcome to Retro Bowl!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
 msg_LimitedVersion	*** Limited Version - $num games remaining ***
@@ -818,9 +818,9 @@ tip_29	You cannot trade between teams after week 8
 tip_30	Sometimes another team will offer you a draft pick for one of your players
 tip_31	Happier coaches level up quicker
 tip_32	Training regimes affect a player's happiness, XP, energy and injury risk
-tip_33	Wherever you see a ² prompt, you can also use the - Button instead of ².
-tip_34	You can also use the R Button instead of ³ to change your mind about punting or kicking.
-tip_35	Press º to toggle BULLET THROW on or off. You can also choose a BULLET THROW by holding down the L Button.
+tip_33	Wherever you see a Â² prompt, you can also use the - Button instead of Â².
+tip_34	You can also use the R Button instead of Â³ to change your mind about punting or kicking.
+tip_35	Press Âº to toggle BULLET THROW on or off. You can also choose a BULLET THROW by holding down the L Button.
 tip_36	If you are using the touch screen then your receiver will always run automatically.
 
 btn_NotInterested	Reject
@@ -864,10 +864,8 @@ ui_SaveSlot2	Save 2
 ui_SaveSlot3	Save 3
 ui_SaveSlot4	Save 4
 ui_SaveSlot5	Save 5
-ui_SaveSlot-1	Default
 ui_Delete	Delete
 ui_ExitGame	Exit Game
-ui_ExitGamePoki	Reset Game
 msg_DeleteGame	Are you sure you want to delete this save file?##Slot $num#$savedetails
 msg_DeleteGame2	##WARNING!#Existing coaching credits will be lost!
 ui_Remaining	Remaining
@@ -903,9 +901,6 @@ ui_CopySlot3	Copy Teams#From Save 3
 ui_CopySlot4	Copy Teams#From Save 4
 ui_CopySlot5	Copy Teams#From Save 5
 msg_CopyUniforms	Copy the team names and uniform colors from slot $num?
-msg_ExhibitionUseStarPlayers	Do you want to use Star Players in this Exhibition Game?
-msg_ExhibitionCopyUniforms	Copy the teams from slot $num?
-msg_ExhibitionCantCopyUniforms	You can use your Star Players and your customized team data in Exhibition if you have purchased the Unlimited Version. You can do this by loading a career and going to the store.
 msg_UnlimitedFeatures	Upgrade to the unlimited version now!##* Get 25 coaching credits *#* Edit team names and uniforms *#* Edit player names *#* Snow and rain weather effects *#* Kickoff Returns *#* Support development! *
 ui_Upgrade	Upgrade
 ui_Difficulty	Difficulty
@@ -1152,8 +1147,6 @@ btn_RecordBook	Record#Book
 btn_Leagues	Retro Bowl#Leagues
 poki_CoinBoostMsg	Would you like to double your coaching credits by watching an ad?
 info_UnlimitedVersion	#Unlocks Team Editor,#Weather and Kick Returns#Coaching Credits x 25
-info_UnlimitedVersion_short	#Team Editor and more!
-info_UnlimitedVersion_popup	Unlocks Team Editor,#Weather and Kick Returns#Coaching Credits x 25
 ui_View	View
 ui_Sound	Sound
 ui_AimingInvert	Controller#Throwing
@@ -1168,72 +1161,72 @@ Map_Tab3_Name	RECEIVER
 Map_Tab1_Line1_L	NAVIGATION
 Map_Tab1_Line1_B1	Left Stick
 Map_Tab1_Line2_L	ACCEPT / CONTINUE
-Map_Tab1_Line2_B1	¹
+Map_Tab1_Line2_B1	Â¹
 Map_Tab1_Line3_L	BACK
-Map_Tab1_Line3_B1	º
+Map_Tab1_Line3_B1	Âº
 Map_Tab1_Line4_L	FURTHER OPTIONS
-Map_Tab1_Line4_B1	²
+Map_Tab1_Line4_B1	Â²
 Map_Tab1_Line4_B2	- Button
 Map_Tab1_Line5_L	SCROLL LIST LEFT
 Map_Tab1_Line5_B1	L Button
 Map_Tab1_Line6_L	SCROLL LIST RIGHT
 Map_Tab1_Line6_B1	R Button
 Map_Tab1_Line7_L	SCROLL LIST UP
-Map_Tab1_Line7_B1	Right Stick ↑
+Map_Tab1_Line7_B1	Right Stick â†‘
 Map_Tab1_Line7_B2	L Button
 Map_Tab1_Line8_L	SCROLL LIST DOWN
-Map_Tab1_Line8_B1	Right Stick ↓
+Map_Tab1_Line8_B1	Right Stick â†“
 Map_Tab1_Line8_B2	R Button
 Map_Tab1_Line9_L	PAUSE GAME
 Map_Tab1_Line9_B1	+ Button
 Map_Tab2_Line1_L	CHOOSE PUNT / FIELD GOAL
-Map_Tab2_Line1_B1	³
+Map_Tab2_Line1_B1	Â³
 Map_Tab2_Line1_B2	R Button
 Map_Tab2_Line2_L	SET FIELD GOAL POWER
-Map_Tab2_Line2_B1	¹
+Map_Tab2_Line2_B1	Â¹
 Map_Tab2_Line3_L	SET FIELD GOAL DIRECTION
-Map_Tab2_Line3_B1	¹
+Map_Tab2_Line3_B1	Â¹
 Map_Tab2_Line4_L	HAND OFF
-Map_Tab2_Line4_B1	º
+Map_Tab2_Line4_B1	Âº
 Map_Tab2_Line5_L	AUDIBLE (CHANGE PLAY)
-Map_Tab2_Line5_B1	²
+Map_Tab2_Line5_B1	Â²
 Map_Tab2_Line5_B2	- Button
 Map_Tab2_Line6_L	AIM THROW
 Map_Tab2_Line6_B1	Left Stick
 Map_Tab2_Line7_L	THROW
-Map_Tab2_Line7_B1	¹
+Map_Tab2_Line7_B1	Â¹
 Map_Tab2_Line8_L	BULLET THROW
-Map_Tab2_Line8_B1	º
+Map_Tab2_Line8_B1	Âº
 Map_Tab2_Line8_B2	L Button (HOLD)
 Map_Tab2_Line9_L	SCRAMBLE
-Map_Tab2_Line9_B1	²
+Map_Tab2_Line9_B1	Â²
 Map_Tab2_Line9_B2	- Button
 Map_Tab3_Line1_L	RUN
 Map_Tab3_Line1_B1	Left Stick
 Map_Tab3_Line2_L	JUKE UP
-Map_Tab3_Line2_B1	Left Stick ↑ + º
-Map_Tab3_Line2_B2	Right Stick ↑
+Map_Tab3_Line2_B1	Left Stick â†‘ + Âº
+Map_Tab3_Line2_B2	Right Stick â†‘
 Map_Tab3_Line3_L	JUKE DOWN
-Map_Tab3_Line3_B1	Left Stick ↓ + º
-Map_Tab3_Line3_B2	Right Stick ↓
+Map_Tab3_Line3_B1	Left Stick â†“ + Âº
+Map_Tab3_Line3_B2	Right Stick â†“
 Map_Tab3_Line4_L	STUTTER STEP (DRIVE LEFT)
-Map_Tab3_Line4_B1	º
-Map_Tab3_Line4_B2	Right Stick →
+Map_Tab3_Line4_B1	Âº
+Map_Tab3_Line4_B2	Right Stick â†’
 Map_Tab3_Line5_L	STUTTER STEP (DRIVE RIGHT)
-Map_Tab3_Line5_B1	º
-Map_Tab3_Line5_B2	Right Stick ←
+Map_Tab3_Line5_B1	Âº
+Map_Tab3_Line5_B2	Right Stick â†
 Map_Tab3_Line6_L	DIVE (DRIVE LEFT)
-Map_Tab3_Line6_B1	¹
-Map_Tab3_Line6_B2	Right Stick ←
+Map_Tab3_Line6_B1	Â¹
+Map_Tab3_Line6_B2	Right Stick â†
 Map_Tab3_Line7_L	DIVE (DRIVE RIGHT)
-Map_Tab3_Line7_B1	¹
-Map_Tab3_Line7_B2	Right Stick →
+Map_Tab3_Line7_B1	Â¹
+Map_Tab3_Line7_B2	Right Stick â†’
 Map_Tab3_Line8_L	TIMEOUT (STOP CLOCK)
-Map_Tab3_Line8_B1	²
+Map_Tab3_Line8_B1	Â²
 Map_Tab3_Line8_B2	- Button
 Map_Tab3_Line9_L	TOUCHBACK (IN ENDZONE)
-Map_Tab3_Line9_B1	¹
-Map_Tab3_Line9_B2	º
+Map_Tab3_Line9_B1	Â¹
+Map_Tab3_Line9_B2	Âº
 msg_Intro_PassingFail	Drag your finger in the opposite direction of the running receiver to aim, then release to throw.
 msg_Intro_PassingFailBrowser	Click and drag in the opposite direction of the running receiver to aim, then release to throw.
 msg_Intro_PassingFailGamepad	Use the LEFT STICK to aim your pass, then press the THROW button.
@@ -1353,12 +1346,27 @@ msg_JobOffers_QB_4	Your wealth of experience and knowledge of the game make you 
 msg_NegotiateNo_TooLong	The owner does not want to extend your contract this season.
 msg_NegotiateNo_TooEarly	The owner does not want to negotiate a new contract this early in the season.
 msg_AgentRequestContract	Your agent informs you that $teamname would be will to discuss a contract extension.
-
+ui_Freshman_Short	Fr
+ui_Sophomore_Short	So
+ui_Junior_Short	Jr
+ui_Senior_Short	Sr
+ui_Freshman	Freshman
+ui_Sophomore	Sophomore
+ui_Junior	Junior
+ui_Senior	Senior
+ui_GPA	GPA
+ui_Suspended	Suspended
+ui_PlayerSuspended	Player Suspended	
+msg_suspended	$playername has been placed on Academic Suspension.##Suspended players will be unavailable for games while they are studying to improve their GPA.
 ui_Version_Mode	Franchise
 ui_CO_Label	College
 ui_QB_Label	Quarterback
 ui_FR_Label	Franchise
-
+ui_Recruitment_Credits	RECRUITMENT CREDITS
+ui_increase	Increase
+ui_wallet	Wallet
+ui_next	Next
+ui_Info	Info
 btn_GenerateCharacter	Random#Character
 msg_NeedBossHead	You need to select a face for yourself.##Tap on the head coach card to choose an image.
 info_HeadCoach	This is you! Your morale is affected by team morale and fan approval. Your star rating will increase with victories!
@@ -1368,8 +1376,6 @@ msg_RetroBowlMVPWinner	$playername was named the Retro Bowl MVP!
 btn_Achievements	Achieve-#ments
 ui_RetroBowlWinners	Retro Bowl Winners
 match_SkipTime	Skip Time
-match_SimOn	Turn SIM off
-match_SimOff	Activate SIM
 info_Skill_Buff	Players receive a +1 skill buff if morale is exceptional.
 info_Strength_Buff	Players receive a +1 strength buff if their morale is angry or toxic.
 info_Speed_Buff	Players receive a +1 speed buff if they have 100% condition.
@@ -1392,7 +1398,7 @@ btn_GoFor1	Go for 1pt
 btn_GoFor2	Go for 2pts
 head2head_Player	Player
 ui_ExhibitionGame	Exhibition Game
-btn_ExhibitionGame	Exhibition Game
+btn_ExhibitionGame	Exhibition#Game
 btn_ChangeTeam	Change#Team
 btn_WeatherRandom	Random
 btn_WeatherSun	Sun
@@ -1412,14 +1418,3 @@ msg_LostController	One or more controllers have been deactivated.
 ui_Quit	Quit
 ui_Exhibition	Exhibition
 ui_aa_ShowUI	Show UI
-
-ui_Ranked	Ranked
-
-aa_ui_RetroBowl	Retro Bowl+
-aa_game_Title	Retro Bowl+
-aa_msg_Welcome	Welcome to Retro Bowl+!##You are about to start your first season as the head coach of a pro football team.##The path to success is an arduous one but if you believe in yourself and can inspire your team then glory awaits!#
-aa_msg_Update	Welcome to Retro Bowl+!
-aa_info_StartWithFave	Retro Bowl+ is a game all about building a legacy. If you choose to start with your favorite team that's fine but the story of your career will be a simple one.##Why not start out at a low ranked team and prove yourself before receiving that dream offer from your favorite team?
-
-matchmsg_ActivateSimulation	Activate Simulation?
-match_ContinuePlaying	Continue#Playing
